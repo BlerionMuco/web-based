@@ -9,4 +9,5 @@
 # Tech stack
 ### PNPM NodeJS ExpressJS
 
-I have added a helperFile and used ###fs package where we can interact with file systems and write or read data from a simple json.
+I have added a helperFile and used ### fs 
+With this package where we can interact with file systems and write or read data from a simple json.
