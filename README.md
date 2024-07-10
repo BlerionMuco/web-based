@@ -5,7 +5,7 @@
 # Install packages
 ### pnpm i
 # Run the project
-### node server.js
+### pnpm start
 # Tech stack
 ### PNPM NodeJS ExpressJS
 
