@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "1 Beer",
-    "type": "test1",
-    "ratings": [1]
+    "name": "Test1",
+    "type": "Test2",
+    "ratings": []
   }
 ]
