@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const filePath = './../../db/beers.json';
+const filePath = 'beers.json';
 
 function readFromFile() {
   if (!fs.existsSync(filePath)) {
